@@ -1,0 +1,28 @@
+body{
+    font-family: 'Allison', cursive;
+    background: aqua;
+
+}
+.header_div{
+    background-color: goldenrod;
+    color: springgreen;
+}
+.header_div p{
+    font-family: cursive;
+    font-size: medium;
+letter-spacing: 1px;
+font-weight: initial;
+}
+.main_div button{
+font-family: initial;
+margin-top:50px;
+width: inherit;
+}
+.copy_right_footer{
+    background-color: khaki;
+    color: rgb(0, 0, 211);
+    width: 100%;
+    text-shadow:5px 5px 5px crimson;
+    font-size: 50px;
+    position:fixed;
+}
