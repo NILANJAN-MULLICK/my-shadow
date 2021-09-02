@@ -25,4 +25,5 @@ width: inherit;
     text-shadow:5px 5px 5px crimson;
     font-size: 50px;
     position:fixed;
+    bottom: 0;
 }
